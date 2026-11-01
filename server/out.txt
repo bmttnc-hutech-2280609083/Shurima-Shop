@@ -1,0 +1,3 @@
+◇ injecting env (4) from .env // tip: ⌁ auth for agents [www.vestauth.com]
+MongoDB connected
+Server running at http://localhost:5000
